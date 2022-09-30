@@ -1,0 +1,4 @@
+Hello World!
+I am learning Git using Git Bash.
+Git Bash is an environment/application which provides command line experience on my OS.
+I have saved the basic GIT commands in a word file named "Basic GIT Commands".
